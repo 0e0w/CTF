@@ -44,6 +44,8 @@
 
 ## 11-CTFTools
 
+- [ ] https://github.com/Acmesec/CTFCrackTools
+
 ## 12-CTFBooks
 
 - [ ] https://github.com/firmianay/CTF-All-In-One
